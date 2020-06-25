@@ -3901,7 +3901,10 @@ packages:
         - transformers-fix
 
     "Dan Firth <dan.firth@homotopic.tech> @locallycompact":
+        - aeson-with
+        - path-extensions
         - shake-plus
+        - slick
         - within
 
     "Domen Kozar <domen@enlambda.com> @domenkozar":
