@@ -3936,6 +3936,8 @@ packages:
     "Dan Firth <dan.firth@homotopic.tech> @locallycompact":
         - aeson-with
         - binary-instances
+        - composite-aeson
+        - composite-base
         - comonad-extras
         - ixset-typed-binary-instance
         - ixset-typed-conversions
