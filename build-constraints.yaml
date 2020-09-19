@@ -3954,9 +3954,11 @@ packages:
         - aeson-with
         - binary-instances
         - comonad-extras
+        - compdoc
         - composite-aeson
         - composite-aeson-path
         - composite-aeson-refined
+        - composite-aeson-throw
         - composite-base
         - composite-binary
         - composite-ekg
@@ -3970,6 +3972,8 @@ packages:
         - path-binary-instance
         - path-extensions
         - path-like
+        - path-utils
+        - pandoc-throw
         - shake-plus
         - shake-plus-extended
         - within
