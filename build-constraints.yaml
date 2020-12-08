@@ -3981,6 +3981,7 @@ packages:
     "Dan Firth <dan.firth@homotopic.tech> @locallycompact":
         - aeson-with
         - binary-instances
+        - chassis
         - comonad-extras
         - composite-aeson
         - composite-aeson-path
