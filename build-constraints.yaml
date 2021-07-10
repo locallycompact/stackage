@@ -4057,7 +4057,6 @@ packages:
         - conferer-hspec
         - conferer-aeson
 
-    "Tim Humphries <tim+stackage@utf8.me> @thumphries":
         - transformers-either
         - transformers-fix
 
@@ -5240,7 +5239,6 @@ packages:
         - sdl2-mixer < 0
         - sequence-formats < 0
         - sessiontypes < 0
-        - shake-plus < 0
         - simplistic-generics < 0
         - slack-api < 0
         - squeal-postgresql < 0
