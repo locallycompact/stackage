@@ -5580,7 +5580,6 @@ packages:
         - chatwork < 0 # tried chatwork-0.1.3.5, but its *library* does not support: http-api-data-0.4.3
         - chatwork < 0 # tried chatwork-0.1.3.5, but its *library* does not support: http-client-0.7.8
         - chatwork < 0 # tried chatwork-0.1.3.5, but its *library* does not support: req-3.9.1
-        - chronos < 0 # tried chronos-1.1.2, but its *library* does not support: aeson-1.5.6.0
         - chronos-bench < 0 # tried chronos-bench-0.2.0.2, but its *library* requires the disabled package: chronos
         - cipher-aes128 < 0 # tried cipher-aes128-0.7.0.5, but its *library* does not support: Cabal-3.4.0.0
         - clang-compilation-database < 0 # tried clang-compilation-database-0.1.0.1, but its *library* does not support: base-4.15.0.0
